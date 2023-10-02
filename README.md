@@ -1,6 +1,6 @@
 # Courier_Management_System
 Courier management system is the process of making sure a delivery service runs smoothly and gets packages to their destinations on time.
-## output
+## Output
 ![login](https://github.com/Nishmitha2003/Courier_Management_System/assets/125563752/c080ff76-64d0-47ac-a341-304b2bda4275)
 ![register](https://github.com/Nishmitha2003/Courier_Management_System/assets/125563752/55760e8e-469e-4e8e-bb4a-e9911717fdaa)
 ![home](https://github.com/Nishmitha2003/Courier_Management_System/assets/125563752/39f1037f-b076-4784-8cf2-929d4b96a74b)
